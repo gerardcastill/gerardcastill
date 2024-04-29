@@ -3,4 +3,4 @@
 Studied Software Engineering at Kennesaw State University
 
 - 🌱 I’m currently learning more about C++ to use in embedded systems and Javascript for web development
-- ⭐ Just finished getting inventory management system v1.0 running. Be sure to check it out!
+- ⭐ Just finished getting inventory management system v1.0 running.
